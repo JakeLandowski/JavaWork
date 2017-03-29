@@ -1,4 +1,6 @@
-Created for one of my intro java class assignments. The original project involved just animating some random asteroids to move linearly across the screen. I found this uninteresting and was inspired to just create the actual "game," or atleast a working concept of it. 
+![alt text](https://raw.githubusercontent.com/JakeLandowski/JavaWork/master/AsteroidsGame/AsteroidsGif.gif "Asteroids")
+
+Created for one of my intro java class assignments. The original project involved just animating some random asteroids to move linearly across the screen. I found this uninteresting and was inspired to just create the actual "game," or atleast a working concept of it. Keep in mind, the code is pretty sloppy since I only have a day to make this, and spent most of it doing the math.
 
 I initially ran into a wall of not knowing how to create multi-directional fluid movement, but knew how to create basic velocity. My next step was to figure out how to get the angle/slope from points at different angles as well as the distance, so I just googled til I found the Pythagoream Theorem and distance formulas and eventually made it work to get the ship and asteroids to move at both controlled and random directions and velocities. I ended up learning in the end that this is what vectors are lol. 
 
