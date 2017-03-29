@@ -20,4 +20,7 @@ Here is a quick breakdown of the set up of my program:
 
 8. When a shape touches the bottom of the screen or a previously frozen block, it will freeze after sitting still for roughly 3        movement loops, resetting when moved or rotated in order to allow a grace period to shimmy it into place.
 
+9. Each time a fresh shape is frozen into place, the grid checks each row for a full line of frozen cells, if so it deletes that      row and moves the previous rows of frozen cells down.
+
+
 Since I'm still new to this, I don't know how much of what I've done is incorrect, but it functions, and it was definitely fun as hell to make.
