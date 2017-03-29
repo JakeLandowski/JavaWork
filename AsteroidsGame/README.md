@@ -1,4 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/JakeLandowski/JavaWork/master/AsteroidsGame/AsteroidGif.gif "Asteroids")
+[Pardon the choppy gif capture]
 
 Created for one of my intro java class assignments. The original project involved just animating some random asteroids to move linearly across the screen. I found this uninteresting and was inspired to just create the actual "game," or atleast a working concept of it. Keep in mind, the code is pretty sloppy since I only have a day to make this, and spent most of it doing the math.
 
