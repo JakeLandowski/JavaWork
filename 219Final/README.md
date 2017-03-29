@@ -1,3 +1,5 @@
+![alt text](https://github.com/JakeLandowski/JavaWork/master/219Final/TetrisCloneGif.gif "Logo Title Text 1")
+
 This was made for my final project in one of my intro java classes. The requirements was to simply make some sort of game. It didn't have to be anything amazing, but I wanted a challenge so I decided to take on Tetris and really start practicing utilizing multiple classes to create a solid program. I ended up creating a very basic tetris clone, although it is nothing amazing in terms of design, it is a working concept. This was during a quarter where I was taking 5 classes and I only had 1 week to accomplish this, with that in mind I'm rather happy with what I made.
 
 In this class we were using an old graphics library called ACM. Although I use it in this program, it is largely unnecessary as the only rendering I'm doing it turning cell blocks different colors to represent their state. 
