@@ -22,5 +22,3 @@ Here is a quick breakdown of the set up of my program:
 
 9. Each time a fresh shape is frozen into place, the grid checks each row for a full line of frozen cells, if so it deletes that      row and moves the previous rows of frozen cells down.
 
-
-Since I'm still new to this, I don't know how much of what I've done is incorrect, but it functions, and it was definitely fun as hell to make.
